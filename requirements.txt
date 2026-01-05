@@ -1,3 +1,2 @@
-python -m venv venv
-venv\Scripts\activate   
-pip install "python-telegram-bot[job-queue]"
+python-telegram-bot[job-queue]==21.9
+python-dotenv==1.0.1
